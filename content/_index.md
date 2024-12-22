@@ -9,7 +9,7 @@ title: Homepage
 </div>
 
 
-I am a second-year Ph.D. student in the [Security and Privacy](https://siebelschool.illinois.edu/research/areas/security-and-privacy) group at the [University of Illinois at Urbana-Champaign](https://illinois.edu/),
+I am a second-year Ph.D. student in the [Security and Privacy](https://siebelschool.illinois.edu/research/areas/security-and-privacy) group at the [University of Illinois Urbana-Champaign](https://illinois.edu/),
 co-advised by [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/) and [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/).
 I am broadly interested in computer security, with a focus on software and system security. Currently, I am working on developing techniques to detect and mitigate security vulnerabilities in open-source software.
 
