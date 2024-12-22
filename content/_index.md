@@ -13,7 +13,7 @@ I am a second-year Ph.D. student in the [Security and Privacy](https://siebelsch
 co-advised by [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/) and [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/).
 I am broadly interested in computer security, with a focus on software and system security. Currently, I am working on developing techniques to detect and mitigate security vulnerabilities in open-source software.
 
-Before joining UIUC, I received my B.Eng. degree in Software Engineering from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), and M.S. degree in Computer Engineering from [University of California, San Diego](https://ucsd.edu/).
+Before joining UIUC, I received M.S. degree in Computer Engineering from [University of California, San Diego](https://ucsd.edu/), and my B.Eng. degree in Software Engineering from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
 ## Publications
 
