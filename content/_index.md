@@ -2,12 +2,11 @@
 title: Homepage
 ---
 
-<img src="images/portrait.jpg" alt="portrait" align="center" style="margin-bottom: 30px; border-radius: 5%; width: 70%;">
+<img src="/images/portrait.jpg" alt="portrait" align="center" style="margin-bottom: 30px; border-radius: 5%; width: 42%;">
 
 <div align="center">
 <h1>Tianyang Zhou (周天阳)</h1>
 </div>
-
 
 I am a second-year Ph.D. student in the [Security and Privacy](https://siebelschool.illinois.edu/research/areas/security-and-privacy) group at the [University of Illinois Urbana-Champaign](https://illinois.edu/),
 co-advised by [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/) and [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/).
@@ -17,5 +16,9 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Publications
 
+1. [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
+   **Tianyang Zhou**, Master's Thesis, University of California, San Diego, 2023
+
 ## Teaching
 
+- UIUC CS 461/ECE 422: [Computer Security I (Fall 2024)](https://courses.grainger.illinois.edu/cs461/fa2024/index.html), Teaching Assistant
