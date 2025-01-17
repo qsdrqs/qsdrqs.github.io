@@ -16,9 +16,10 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Publications
 
-1. [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
+- [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
    **Tianyang Zhou**, Master's Thesis, University of California, San Diego, 2023
 
 ## Teaching
 
+- UIUC CS 461/ECE 422: [Computer Security I (Spring 2025)](https://courses.grainger.illinois.edu/cs461/sp2025/index.html), Teaching Assistant
 - UIUC CS 461/ECE 422: [Computer Security I (Fall 2024)](https://courses.grainger.illinois.edu/cs461/fa2024/index.html), Teaching Assistant
