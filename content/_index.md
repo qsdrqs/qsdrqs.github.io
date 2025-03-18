@@ -16,8 +16,10 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Publications
 
+- [LLM-Driven Multi-step Translation from C to Rust using Static Analysis](https://arxiv.org/abs/2503.12511)</br>
+   **Tianyang Zhou**, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Pre-print, 2025
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
-   **Tianyang Zhou**, Master's Thesis, University of California, San Diego, 2023
+   **Tianyang Zhou**. Master's Thesis, University of California, San Diego, 2023
 
 ## Teaching
 
