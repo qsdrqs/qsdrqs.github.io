@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Tianyang Zhou's Homepage
 ---
 
 <img src="/images/portrait.jpg" alt="portrait" align="center" style="margin-bottom: 30px; border-radius: 5%; width: 42%;">
