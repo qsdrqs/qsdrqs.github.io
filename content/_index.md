@@ -23,5 +23,6 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Teaching
 
+- UIUC CS 421: **Programming Languages (Summer 2025)**, Teaching Assistant
 - UIUC CS 461/ECE 422: [Computer Security I (Spring 2025)](https://courses.grainger.illinois.edu/cs461/sp2025/index.html), Teaching Assistant
 - UIUC CS 461/ECE 422: [Computer Security I (Fall 2024)](https://courses.grainger.illinois.edu/cs461/fa2024/index.html), Teaching Assistant
