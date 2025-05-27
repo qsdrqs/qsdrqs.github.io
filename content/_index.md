@@ -21,6 +21,11 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
    **Tianyang Zhou**. Master's Thesis, University of California, San Diego, 2023
 
+## Talks
+
+- [SACTOR: LLM-Driven Multi-Step Translation from C to Rust using Static Analysis](/files/Multi-step%20Translation%20from%20C%20to%20Rust%20using%20Static%20Analysis%20%28Google%29.pdf)<br>
+   Invited Talk at *Google*, May 2025
+
 ## Teaching
 
 - UIUC CS 421: **Programming Languages (Summer 2025)**, Teaching Assistant
