@@ -9,13 +9,15 @@ title: Tianyang Zhou's Homepage
 </div>
 
 I am a second-year Ph.D. student in the [Security and Privacy](https://siebelschool.illinois.edu/research/areas/security-and-privacy) group at the [University of Illinois Urbana-Champaign](https://illinois.edu/),
-co-advised by [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/) and [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/).
-I am broadly interested in computer security, with a focus on software and system security. Currently, I am working on developing techniques to detect and mitigate security vulnerabilities in open-source software.
+co-advised by [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/) and [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
+My research focuses on program translation and software security, with an emphasis on machine learning for code. I currently develop techniques for verified C-to-Rust translation and analyze security implications of AI-generated code.
 
 Before joining UIUC, I received M.S. degree in Computer Engineering from [University of California, San Diego](https://ucsd.edu/), and my B.Eng. degree in Software Engineering from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
 ## Publications
 
+- **SoK: Understanding (New) Security Issues Across AI4Code Use Cases**</br>
+   Qilong Wu*, Taoran Li*, <b>Tianyang Zhou*</b>, and Varun Chandrasekaran. Under review, 2025. <i>*Equal Contribution</i>
 - [LLM-Driven Multi-step Translation from C to Rust using Static Analysis](https://arxiv.org/abs/2503.12511)</br>
    **Tianyang Zhou**, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Pre-print, 2025
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
