@@ -10,7 +10,7 @@ title: Tianyang Zhou's Homepage
 
 I am a third-year Ph.D. student in the [Security and Privacy](https://siebelschool.illinois.edu/research/areas/security-and-privacy) group at the [University of Illinois Urbana-Champaign](https://illinois.edu/),
 co-advised by [Prof. Varun Chandrasekaran](https://chandrasekaran-group.github.io/) and [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/).
-My research focuses on program translation and software security, with an emphasis on machine learning for code. I currently develop techniques for verified C-to-Rust translation and analyze security implications of AI-generated code.
+My research focuses on program translation and software security, with an emphasis on machine learning for code. I am currently developing techniques for verified C-to-Rust translation and analyzing the security implications of AI-generated code.
 
 Before joining UIUC, I received M.S. degree in Computer Engineering from [University of California, San Diego](https://ucsd.edu/), and my B.Eng. degree in Software Engineering from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
