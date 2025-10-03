@@ -16,10 +16,12 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Publications
 
+- [LLM-Based Code Translation Needs Formal Compositional Reasoning](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-174.pdf)</br>
+   Divyam Anshumaan, Tej Chajed, Varun Chandrasekaran, Alvin Cheung, Sarthak Choudhary, Adwait Godbole, Somesh Jha, Nils Palumbo, Elizabeth Polgreen, Sanjit A. Seshia, <b>Tianyang Zhou</b>. Pre-print, 2025. <i>Authors listed in alphabetical order.</i>
 - **SoK: Understanding (New) Security Issues Across AI4Code Use Cases**</br>
    Qilong Wu*, Taoran Li*, <b>Tianyang Zhou*</b>, and Varun Chandrasekaran. Under review, 2025. <i>*Equal Contribution</i>
 - [LLM-Driven Multi-step Translation from C to Rust using Static Analysis](https://arxiv.org/abs/2503.12511)</br>
-   **Tianyang Zhou**, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Pre-print, 2025
+   **Tianyang Zhou**, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Deep Learning for Code, 2025
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
    **Tianyang Zhou**. Master's Thesis, University of California, San Diego, 2023
 
