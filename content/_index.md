@@ -21,7 +21,7 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 - [SoK: Understanding (New) Security Issues Across AI4Code Use Cases](https://arxiv.org/abs/2512.18456)</br>
    Qilong Wu*, Taoran Li*, <b>Tianyang Zhou*</b>, and Varun Chandrasekaran. Under review, 2025. <i>*Equal Contribution</i>
 - [SACTOR: LLM-Driven Correct and Idiomatic C to Rust Translation with Static Analysis and FFI-Based Verification](https://arxiv.org/abs/2503.12511)</br>
-   **Tianyang Zhou**, Ziyi Zhang, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Deep Learning for Code, 2025
+   **Tianyang Zhou**, Ziyi Zhang, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. The 64nd Annual Meeting of the Association for Computational Linguistics, 2026
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
    **Tianyang Zhou**. Master's Thesis, University of California, San Diego, 2023
 
