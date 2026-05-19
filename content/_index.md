@@ -16,6 +16,8 @@ Before joining UIUC, I received M.S. degree in Computer Engineering from [Univer
 
 ## Publications
 
+- [Verifier-Guided Code Translation via Meta-Step Decoding](https://arxiv.org/abs/2605.17626)</br>
+   **Tianyang Zhou**, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. Under review at NeurIPS, 2026.
 - [LLM-Based Code Translation Needs Formal Compositional Reasoning](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-174.pdf)</br>
    Divyam Anshumaan, Tej Chajed, Varun Chandrasekaran, Alvin Cheung, Sarthak Choudhary, Adwait Godbole, Somesh Jha, Nils Palumbo, Elizabeth Polgreen, Sanjit A. Seshia, <b>Tianyang Zhou</b>. Pre-print, 2025. <i>Authors listed in alphabetical order.</i>
 - [SoK: Understanding (New) Security Issues Across AI4Code Use Cases](https://arxiv.org/abs/2512.18456)</br>
