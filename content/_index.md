@@ -14,6 +14,8 @@ My research focuses on program translation and software security, with an emphas
 
 Before joining UIUC, I received M.S. degree in Computer Engineering from [University of California, San Diego](https://ucsd.edu/), and my B.Eng. degree in Software Engineering from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
+You can find my CV [here](/files/cv.pdf).
+
 ## Publications
 
 - [Verifier-Guided Code Translation via Meta-Step Decoding](https://arxiv.org/abs/2605.17626)</br>
