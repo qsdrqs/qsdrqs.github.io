@@ -19,15 +19,15 @@ You can find my CV [here](/files/cv.pdf).
 ## Publications
 
 - [Verifier-Guided Code Translation via Meta-Step Decoding](https://arxiv.org/abs/2605.17626)</br>
-   **Tianyang Zhou**, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. The Fortieth Annual Conference on Neural Information Processing Systems *(NeurIPS)*, 2026.
+   **Tianyang Zhou**, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran.</br> The Fortieth Annual Conference on Neural Information Processing Systems *(NeurIPS)*, 2026.
 - [LLM-Based Code Translation Needs Formal Compositional Reasoning](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-174.pdf)</br>
-   Divyam Anshumaan, Tej Chajed, Varun Chandrasekaran, Alvin Cheung, Sarthak Choudhary, Adwait Godbole, Somesh Jha, Nils Palumbo, Elizabeth Polgreen, Sanjit A. Seshia, <b>Tianyang Zhou</b>. Pre-print, 2025. <i>Authors listed in alphabetical order.</i>
+   Divyam Anshumaan, Tej Chajed, Varun Chandrasekaran, Alvin Cheung, Sarthak Choudhary, Adwait Godbole, Somesh Jha, Nils Palumbo, Elizabeth Polgreen, Sanjit A. Seshia, <b>Tianyang Zhou</b>.</br> Pre-print, 2025. <i>Authors listed in alphabetical order.</i>
 - [SoK: Understanding (New) Security Issues Across AI4Code Use Cases](https://arxiv.org/abs/2512.18456)</br>
    Qilong Wu*, Taoran Li*, <b>Tianyang Zhou*</b>, and Varun Chandrasekaran. 2025. <i>*Equal Contribution</i>
 - [SACTOR: LLM-Driven Correct and Idiomatic C to Rust Translation with Static Analysis and FFI-Based Verification](https://aclanthology.org/2026.acl-long.28/)</br>
-   **Tianyang Zhou**, Ziyi Zhang, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran. The 64nd Annual Meeting of the Association for Computational Linguistics *(ACL)*, 2026
+   **Tianyang Zhou**, Ziyi Zhang, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran.</br> The 64nd Annual Meeting of the Association for Computational Linguistics *(ACL)*, 2026
 - [Fine-grained Library Sandboxing for Rust Ecosystem](https://search.proquest.com/openview/a00eef68e9245c5d16fb35396955652d/1)</br>
-   **Tianyang Zhou**. Master's Thesis, University of California, San Diego, 2023
+   **Tianyang Zhou**.</br> Master's Thesis, University of California, San Diego, 2023
 
 ## Talks
 
