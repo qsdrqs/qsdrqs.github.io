@@ -18,7 +18,7 @@ You can find my CV [here](/files/cv.pdf).
 
 ## Publications
 
-- [Verifier-Guided Code Translation via Meta-Step Decoding](https://arxiv.org/abs/2605.17626)</br>
+- [Verifiers in the Loop: Decoding Time Verification for Code Translation](https://arxiv.org/abs/2605.17626)</br>
    **Tianyang Zhou**, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, and Varun Chandrasekaran.</br> The Fortieth Annual Conference on Neural Information Processing Systems *(NeurIPS)*, 2026.
 - [LLM-Based Code Translation Needs Formal Compositional Reasoning](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-174.pdf)</br>
    Divyam Anshumaan, Tej Chajed, Varun Chandrasekaran, Alvin Cheung, Sarthak Choudhary, Adwait Godbole, Somesh Jha, Nils Palumbo, Elizabeth Polgreen, Sanjit A. Seshia, <b>Tianyang Zhou</b>.</br> Pre-print, 2025. <i>Authors listed in alphabetical order.</i>
