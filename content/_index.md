@@ -34,8 +34,11 @@ You can find my CV [here](/files/cv.pdf).
 - [SACTOR: LLM-Driven Multi-Step Translation from C to Rust using Static Analysis](/files/Multi-step%20Translation%20from%20C%20to%20Rust%20using%20Static%20Analysis%20%28Google%29.pdf)<br>
    Invited Talk at *Google*, May 2025
 
+## Service
+
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2026 (**Top Reviewer Award**)
+
 ## Teaching
 
 - UIUC CS 421: **Programming Languages (Summer 2025)**, Teaching Assistant
-- UIUC CS 461/ECE 422: [Computer Security I (Spring 2025)](https://courses.grainger.illinois.edu/cs461/sp2025/index.html), Teaching Assistant
-- UIUC CS 461/ECE 422: [Computer Security I (Fall 2024)](https://courses.grainger.illinois.edu/cs461/fa2024/index.html), Teaching Assistant
+- UIUC CS 461/ECE 422: **Computer Security I** ([Fall 2026](https://courses.grainger.illinois.edu/cs461/fa2026/index.html), [Spring 2025](https://courses.grainger.illinois.edu/cs461/sp2025/index.html), [Fall 2024](https://courses.grainger.illinois.edu/cs461/fa2024/index.html)), Teaching Assistant
