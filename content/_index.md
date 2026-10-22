@@ -31,6 +31,8 @@ You can find my CV [here](/files/cv.pdf).
 
 ## Talks
 
+- [Toward secure, verifiable, and idiomatic LLM-assisted C-to-Rust translation](/files/Toward%20secure%2C%20verifiable%2C%20and%20idiomatic%20LLM-assisted%20C-to-Rust%20translation%20%28Intel%29.pdf)<br>
+   Invited Talk at *Intel*, October 2026
 - [SACTOR: LLM-Driven Multi-Step Translation from C to Rust using Static Analysis](/files/Multi-step%20Translation%20from%20C%20to%20Rust%20using%20Static%20Analysis%20%28Google%29.pdf)<br>
    Invited Talk at *Google*, May 2025
 
