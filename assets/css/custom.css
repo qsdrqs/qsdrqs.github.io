@@ -1,3 +1,25 @@
+html,
+main {
+    scroll-behavior: smooth;
+}
+
+.sidebar .nav-active,
+.sidebar .nav-active:hover {
+    background-color: rgb(30, 41, 59);
+    color: #fff;
+}
+
+.dark .sidebar .nav-active,
+.dark .sidebar .nav-active:hover {
+    background-color: rgb(248, 250, 252);
+    color: rgb(30, 41, 59);
+}
+
+/* Lets the last homepage sections scroll up to the top when using the sidebar nav. */
+.home-tail-spacer {
+    height: 60vh;
+}
+
 .prose {
     max-width: 1000px;
 }

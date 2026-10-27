@@ -44,3 +44,5 @@ You can find my CV [here](/files/cv.pdf).
 
 - UIUC CS 421: **Programming Languages (Summer 2025)**, Teaching Assistant
 - UIUC CS 461/ECE 422: **Computer Security I** ([Fall 2026](https://courses.grainger.illinois.edu/cs461/fa2026/index.html), [Spring 2025](https://courses.grainger.illinois.edu/cs461/sp2025/index.html), [Fall 2024](https://courses.grainger.illinois.edu/cs461/fa2024/index.html)), Teaching Assistant
+
+<div class="home-tail-spacer" aria-hidden="true"></div>

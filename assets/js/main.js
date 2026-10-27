@@ -99,3 +99,83 @@ if (themeToggle) {
     applyThemePreference(themePreference);
   })
 }
+
+// Sidebar scrollspy
+const sidebarNavLinks = Array.from(document.querySelectorAll('aside.sidebar a[data-nav-link]'));
+const scrollContainer = document.querySelector('main');
+
+if (scrollContainer && sidebarNavLinks.length) {
+  const normalizePath = (path) => path.replace(/\/+$/, '') || '/';
+  const currentPath = normalizePath(window.location.pathname);
+
+  const navSections = sidebarNavLinks
+    .map((link) => {
+      const url = new URL(link.href, window.location.href);
+      if (normalizePath(url.pathname) !== currentPath) return null;
+      const id = decodeURIComponent(url.hash.slice(1));
+      const target = id ? document.getElementById(id) : scrollContainer;
+      return target ? { link, target } : null;
+    })
+    .filter(Boolean);
+
+  if (navSections.length) {
+    let pinnedLink = null;
+
+    const setActive = (activeLink) => {
+      navSections.forEach(({ link }) => {
+        link.classList.toggle('nav-active', link === activeLink);
+      });
+    };
+
+    const updateActiveSection = () => {
+      if (pinnedLink) return;
+      const containerTop = scrollContainer.getBoundingClientRect().top;
+      const threshold = containerTop + scrollContainer.clientHeight * 0.25;
+      let active = navSections[0];
+      navSections.forEach((section) => {
+        if (section.target.getBoundingClientRect().top <= threshold) active = section;
+      });
+      if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 2) {
+        active = navSections[navSections.length - 1];
+      }
+      setActive(active.link);
+    };
+
+    let scrollTicking = false;
+    scrollContainer.addEventListener('scroll', () => {
+      if (scrollTicking) return;
+      scrollTicking = true;
+      requestAnimationFrame(() => {
+        updateActiveSection();
+        scrollTicking = false;
+      });
+    }, { passive: true });
+
+    // Manual scrolling releases the link selected by a click.
+    ['wheel', 'touchstart', 'pointerdown', 'keydown'].forEach((type) => {
+      document.addEventListener(type, () => {
+        pinnedLink = null;
+      }, { passive: true });
+    });
+
+    window.addEventListener('hashchange', updateActiveSection);
+
+    // Keep the clicked link active during its scroll, and close the mobile sidebar.
+    sidebarNavLinks.forEach((link) => {
+      const url = new URL(link.href, window.location.href);
+      if (normalizePath(url.pathname) !== currentPath) return;
+      link.addEventListener('click', (event) => {
+        pinnedLink = link;
+        setActive(link);
+        if (sidebar.classList.contains('!translate-x-0')) toggleSidebar();
+        if (url.hash) return;
+        // Home has no hash, so scroll back to the top explicitly.
+        event.preventDefault();
+        scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
+        history.replaceState(null, '', window.location.pathname);
+      });
+    });
+
+    updateActiveSection();
+  }
+}
